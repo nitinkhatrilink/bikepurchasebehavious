@@ -63,7 +63,8 @@ The goal was to transform raw customer data into meaningful business insights th
 
 ## Dashboard Preview
 
-![Bike Sales Dashboard](dashboard.png)
+
+![Bike Purchase Dashboard](https://raw.githubusercontent.com/nitinkhatrilink/bikepurchasebehavious/main/Dashboard.png)
 
 ---
 
